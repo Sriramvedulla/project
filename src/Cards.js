@@ -34,7 +34,7 @@ function Cards() {
           <p>Orders</p>
           <h2>$2.4k</h2>
           <p>
-            <BiDownArrowAlt />
+            <BiDownArrowAlt className="darrowicon" />
             2% this month
           </p>
         </div>
@@ -48,7 +48,7 @@ function Cards() {
           <p>Balance</p>
           <h2>$2.4k</h2>
           <p>
-            <BiDownArrowAlt />
+            <BiDownArrowAlt className="darrowicon" />
             2% this month
           </p>
         </div>

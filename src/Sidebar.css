@@ -2,6 +2,7 @@
   width: 250px;
   background-color: rgb(31, 2, 59);
   color: #fff;
+  margin-top: -7px;
 }
 .headcontent {
   display: flex;
@@ -9,22 +10,23 @@
   align-items: center;
   gap: 30px;
   margin-left: 10px;
+  padding-top: 16px;
+  padding-bottom: 20px;
 }
-/* .divider {
-    color: #000;
-  } */
+
 .icon {
   width: 25px;
   height: 20px;
 }
-.arrowicon {
+.sidearrowicon {
   margin-left: auto;
   margin-right: 20px;
 }
 .subcontent {
+  margin-top: 10px;
   display: flex;
   justify-content: flex-start;
-  align-items: center;
+  align-items: initial;
   gap: 30px;
   margin-left: 10px;
   cursor: pointer;
@@ -38,7 +40,7 @@
   justify-content: flex-start;
   align-items: center;
   gap: 30px;
-  margin-top: 69%;
+  margin-top: 65%;
   padding-bottom: 16px;
   margin-left: 10px;
   cursor: pointer;

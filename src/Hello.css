@@ -1,8 +1,8 @@
 .shah {
-  margin-top: -30px;
+  margin: auto;
   display: flex;
   justify-content: center;
-  gap: 50%;
+  gap: 40%;
   align-items: center;
 }
 #exampleSearch {
@@ -12,5 +12,5 @@
   margin-left: 30px;
 }
 .hi {
-  margin-left: -13%;
+  margin-left: -15%;
 }

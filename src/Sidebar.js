@@ -29,31 +29,31 @@ function Sidebar() {
           <div className="subcontent">
             <TbSteeringWheel className="icon" />
             <p>Product</p>
-            <NavigateNextOutlinedIcon className="arrowicon" />
+            <NavigateNextOutlinedIcon className="sidearrowicon" />
           </div>
 
           <div className="subcontent">
             <AccountBoxOutlinedIcon className="icon" />
             <p>Customers</p>
-            <NavigateNextOutlinedIcon className="arrowicon" />
+            <NavigateNextOutlinedIcon className="sidearrowicon" />
           </div>
 
           <div className="subcontent">
             <BiWalletAlt className="icon" />
             <p>Income</p>
-            <NavigateNextOutlinedIcon className="arrowicon" />
+            <NavigateNextOutlinedIcon className="sidearrowicon" />
           </div>
 
           <div className="subcontent">
             <BiSolidOffer className="icon" />
             <p>Promote</p>
-            <NavigateNextOutlinedIcon className="arrowicon" />
+            <NavigateNextOutlinedIcon className="sidearrowicon" />
           </div>
 
           <div className="subcontent">
             <LiveHelpOutlinedIcon className="icon" />
             <p>Help</p>
-            <NavigateNextOutlinedIcon className="arrowicon" />
+            <NavigateNextOutlinedIcon className="sidearrowicon" />
           </div>
           <div className="subcontent2">
             <Stack>

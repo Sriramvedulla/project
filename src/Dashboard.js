@@ -37,7 +37,7 @@ export default function PermanentDrawerLeft() {
         variant="permanent"
         anchor="left"
       >
-        <List sx={{ marginTop: -2 }}>
+        <List>
           <Sidebar />
         </List>
       </Drawer>

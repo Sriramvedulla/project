@@ -9,7 +9,7 @@ function Hello() {
       <div className="shah">
         <h3 className="hi">
           Hello Shahrukh
-          <PiHandWavingThin />,
+          <PiHandWavingThin style={{ color: "sandybrown" }} />,
         </h3>
         <FormGroup>
           <Input
