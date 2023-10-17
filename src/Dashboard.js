@@ -3,23 +3,12 @@ import Box from "@mui/material/Box";
 import Drawer from "@mui/material/Drawer";
 // import Toolbar from "@mui/material/Toolbar";
 import List from "@mui/material/List";
-// import Typography from "@mui/material/Typography";
 import Sidebar from "./Sidebar";
 import Cards from "./Cards";
 import BarCharts from "./Charts/BarChart";
 import TwoSimplePieChart from "./Charts/PieChart";
 import Hello from "./Hello";
 import AccessibleTable from "./Table";
-// import SettingsOutlinedIcon from "@mui/icons-material/SettingsOutlined";
-// import Divider from "@mui/material/Divider";
-// import KeyOutlinedIcon from "@mui/icons-material/KeyOutlined";
-// import { TbSteeringWheel } from "react-icons/tb";
-// import ListItem from "@mui/material/ListItem";
-// import ListItemButton from "@mui/material/ListItemButton";
-// import ListItemIcon from "@mui/material/ListItemIcon";
-// import ListItemText from "@mui/material/ListItemText";
-// import InboxIcon from "@mui/icons-material/MoveToInbox";
-// import MailIcon from "@mui/icons-material/Mail";
 
 const drawerWidth = 240;
 
