@@ -1,0 +1,82 @@
+.cards {
+  padding-top: 10px;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  width: 80%;
+  margin: auto;
+  margin-left: 40px;
+}
+.mapdata {
+  width: 280px;
+  height: 150px;
+  border-radius: 10px;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.iconimg {
+  margin-left: 10px;
+  border-radius: 50%;
+  width: 50%;
+  height: 50%;
+  background-color: rgb(102, 240, 102);
+}
+.dataimg {
+  margin-top: 25px;
+  margin-left: 35px;
+  color: green;
+}
+.arrowicon {
+  color: green;
+}
+.iconimg2 {
+  margin-left: 10px;
+  border-radius: 50%;
+  width: 50%;
+  height: 50%;
+  background-color: rgb(243, 184, 243);
+}
+.dataimg2 {
+  margin-top: 30px;
+  width: 40px;
+  margin-left: 35px;
+  color: violet;
+}
+.iconimg3 {
+  margin-left: 10px;
+  border-radius: 50%;
+  width: 50%;
+  height: 50%;
+  background-color: rgb(162, 216, 238);
+}
+.dataimg3 {
+  margin-top: 30px;
+  width: 40px;
+  margin-left: 35px;
+  color: rgb(3, 65, 90);
+}
+.iconimg4 {
+  margin-left: 10px;
+  border-radius: 50%;
+  width: 50%;
+  height: 50%;
+  background-color: rgb(245, 136, 158);
+}
+.dataimg4 {
+  margin-top: 30px;
+  width: 40px;
+  margin-left: 30px;
+  color: rgb(179, 3, 38);
+}
+.earnings {
+  padding-left: 15px;
+}
+.earnings p {
+  font-size: 13px;
+}
+.earnings h2 {
+  margin-top: -10px;
+  margin-bottom: -10px;
+}

@@ -1,0 +1,45 @@
+.sider-section {
+  width: 250px;
+  background-color: rgb(31, 2, 59);
+  color: #fff;
+}
+.headcontent {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 30px;
+  margin-left: 10px;
+}
+/* .divider {
+    color: #000;
+  } */
+.icon {
+  width: 25px;
+  height: 20px;
+}
+.arrowicon {
+  margin-left: auto;
+  margin-right: 20px;
+}
+.subcontent {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 30px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+.details p {
+  margin-top: -5px;
+  font-size: 13px;
+}
+.subcontent2 {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 30px;
+  margin-top: 69%;
+  padding-bottom: 16px;
+  margin-left: 10px;
+  cursor: pointer;
+}
